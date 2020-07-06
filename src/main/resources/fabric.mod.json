@@ -19,7 +19,7 @@
   "environment": "client",
   "entrypoints": {
     "main": [
-      "io.github.boogiemonster1o1.HyperFov"
+      "io.github.boogiemonster1o1.hyperfov.HyperFov"
     ]
   },
   "mixins": [
